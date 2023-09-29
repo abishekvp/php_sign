@@ -1,0 +1,17 @@
+body{
+    background: #292929;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    color: whitesmoke;
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+}
+.content div{
+    display: flex;
+    flex-direction: column;
+    margin: 5% 15%;
+}
