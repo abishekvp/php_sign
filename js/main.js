@@ -1,7 +1,3 @@
-if(window.localStorage.getItem("signin")){
-    window.location.href="./profile.html";
-}
-
 function signup(){
     var name = document.getElementById("su-name").value;
     var contact = document.getElementById("su-contact").value;
